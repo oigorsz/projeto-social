@@ -30,7 +30,17 @@ section#phone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
-    width: 311px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    height: 530px;
+    width: 263px;
+    background: url('../imagens/frame-iphone1.png');
+}
+
+iframe#tela {
+    position: relative;
+    top: 65px;
+    right: 50px;
+    left: 18px;
+    height: 401px;
+    width: 230px;
+    
 }
